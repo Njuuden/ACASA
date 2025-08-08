@@ -1,0 +1,32 @@
+
+Quittung für Marc ZÄNGLEIN 
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+103. Pizza Mary              13 €
+302. Insalata Italia         10 €
+400. Spaghetti Aglio e Olio  9 €
+
+Ihre Bestellung kostet 32 €
+
+Vielen Dank für Ihren Besuch!
+
+
+Quittung für Marc ZÄNGLEIN 
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+103. Pizza Mary              13 €
+400. Spaghetti Aglio e Olio  9 €
+
+Ihre Bestellung kostet 22 €
+
+Vielen Dank für Ihren Besuch!
+
+
+Quittung für Marc ZÄNGLEIN 
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+302. Insalata Italia         10 €
+400. Spaghetti Aglio e Olio  9 €
+600. Parmesanschnitzel       14 €
+
+Ihre Bestellung kostet 33 €
+
+Vielen Dank für Ihren Besuch!
+

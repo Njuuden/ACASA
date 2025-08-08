@@ -1,0 +1,24 @@
+{
+    "Pizza": [
+        {"plu": 100, "gericht": "Pizza Margherita", "preis": 10}, 
+        {"plu": 101, "gericht": "Pizza Tunfisch", "preis": 11}, 
+        {"plu": 102, "gericht": "Pizza Salami", "preis": 12},
+        {"plu": 103, "gericht": "Pizza Mary", "preis": 13}
+    ], 
+    "Auflauf": [
+        {"plu": 200, "gericht": "Nudelauflauf", "preis": 10}, 
+        {"plu": 201, "gericht": "Kartoffelauflauf", "preis": 11}
+    ],
+    "Salat": [
+        {"plu": 300, "gericht": "Normaler Salat", "preis": 10},
+        {"plu": 301, "gericht": "Kaisersalat", "preis": 10},
+        {"plu": 302, "gericht": "Insalata Italia", "preis": 10}
+    ],
+    "Nudeln": [
+        {"plu": 400, "gericht": "Spaghetti Aglio e Olio", "preis": 9},
+        {"plu": 401, "gericht": "Spaghetti Bolognese", "preis": 10}
+    ],
+    "Fleisch": [
+        {"plu": 600, "gericht": "Parmesanschnitzel", "preis": 14} 
+    ]
+}
